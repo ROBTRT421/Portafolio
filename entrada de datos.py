@@ -1,0 +1,22 @@
+print ('                                    ***Interfas Primaria con el Usuario***')
+palabra = input ('Introduce una Palabra: ')
+num_int = int (input ('Introduce un Numero Entero: '))
+num_float = float (input ('Introduce un Numero Flotante: '))
+num_complex = complex (input ('Introduce un Numero Complejo: '))
+#
+print ('String: ', palabra)
+print ('Numero Entero: ', num_int)
+print ('Numero Flotante: ', num_float)
+print ('Numero Complejo: ', num_complex)
+print ('                                                                               ')
+print ('                                                                               ')
+#
+print ('Ejemplo extra Interfas Primaria con el Usuario')
+print ('                                                                               ')
+EQ = input ('Introduce el Elemento Quimico: ')
+NA = int (input ('Introduce su Numero Atomico: '))
+UTP = float (input ('Ubicacion en la Tabla Periodica: '))
+#
+print ('Elemento Quimico: ', EQ)
+print ('Numero Atomico: ', NA)
+print ('Ubicacion en la Tabla Periodica: ', UTP)
